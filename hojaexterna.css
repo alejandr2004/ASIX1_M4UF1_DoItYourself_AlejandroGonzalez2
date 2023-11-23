@@ -1,0 +1,53 @@
+/* hojaexterna.css */
+
+
+/*Todo el texto debe estar estar centrado (text-align) con el editor universal */
+*{
+    text-align: center;
+}
+
+/*La etiqueta h3 debe estar subrayadas en verde*/
+h3{
+    text-decoration: underline;
+    color: green;
+}
+
+
+/*El margen debe ser de un 20%*/
+body {
+    margin: 0 20%;
+}
+
+/*Tamaño de la imagen*/
+img {
+    width: 600px;
+}
+
+/*Color de fondo*/
+body {
+    background-color: #d3d3d3; /* Gris */
+}
+/*Elemento span*/
+span {
+
+ font-weight:900;   
+}
+
+/*Los elementos img tendrán un border: orangered 1px*/
+img {
+    border: orangered 1px
+}
+/*Los elementos h5 estarán subrayados (text-decoration: underline;), de color grey*/
+h5{
+    text-decoration: underline;
+color:grey 
+}
+/*Las etiquetas div deben tener un color negro y subrayado negro(text-decoration: underline;)*/
+div{
+    text-decoration: underline;
+color:black 
+}
+/*Las etiquetas ul deben tener un ancho width de 100%*/
+ul{
+    width: 100%;
+}
